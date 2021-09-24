@@ -1,6 +1,0 @@
-git status: te muestra todas las modificaciones locales que hiciste en comparacion al repositorio
-git add . : agregga todos los cambios que hiciste en tu maquina local
-git add "nombre archivo" : agregar unicamente el archivo que fue nombrado
-git commit -m "mensaje del commit" : paquete de todos los cambios que fueron agregados
-git push origin main: subir o enviar todos los cambios (paquetes)
-git pull origin main: bajar o actualizar todos los cambios del repositorio a tu maquina local
