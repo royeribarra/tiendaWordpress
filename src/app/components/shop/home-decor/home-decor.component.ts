@@ -70,7 +70,7 @@ export class HomeDecorComponent implements OnInit {
     .subscribe(
       data => this.banners = data
     );
-    document.documentElement.style.setProperty('--theme-deafult', '#ef6c00');
+    document.documentElement.style.setProperty('--theme-deafult', '#28b88d');
 
     setTimeout(() => {
       this.contentLoaded = true;
