@@ -48,9 +48,9 @@
                      </div>
                      <div class="py-1 mt-15">
                         <p>
-                           <span class="text-muted fw-500">Avalibility: </span>
-                           <span class="avalibility" *ngIf="counter <= product.stock"><span>In Stock</span></span>
-                           <span class="avalibility" *ngIf="counter > product.stock"><span class="red">Out of Stock</span></span>
+                           <span class="text-muted fw-500">Disponibilidad: </span>
+                           <span class="avalibility" *ngIf="counter <= product.stock"><span>En Stock</span></span>
+                           <span class="avalibility" *ngIf="counter > product.stock"><span class="red">Agotado</span></span>
                         </p>
                      </div>
                      <div class="quantity">
@@ -68,8 +68,8 @@
                         </div>
                      </div>
                      <div class="buttons mt-20">
-                        <button mat-raised-button color="primary" class="btn-project mr-10" (click)="addToCart(product, counter)">ADD TO CARD</button>
-                        <button mat-raised-button color="primary" class="btn-project" (click)="buyNow(product, counter)">BUY NOW</button>
+                        <button mat-raised-button color="primary" class="btn-project mr-10" (click)="addToCart(product, counter)">AGREGAR</button>
+                        <button mat-raised-button color="primary" class="btn-project" (click)="buyNow(product, counter)">COMPRAR AHORA</button>
                      </div>
                   </div>
                </div>

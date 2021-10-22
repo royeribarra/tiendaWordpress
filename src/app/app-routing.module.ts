@@ -3,12 +3,13 @@ import {RouterModule, Routes} from '@angular/router';
 import { MainComponent } from './components/main/main.component';
 import { HomeComponent } from './components/shop/home/home.component';
 import { DemoComponent } from './components/demo/demo.component';
+import { HomeFourComponent } from './components/shop/home-four/home-four.component';
 
 
 const appRoutes: Routes = [
   {
     path: '',
-    redirectTo: 'home',
+    redirectTo: 'home/four',
     pathMatch: 'full'
   },
   {

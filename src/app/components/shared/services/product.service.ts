@@ -29,7 +29,7 @@ export class ProductService {
     }
 
     private products(): Observable<Product[]> {
-        return this.httpClient.get<Product[]>('assets/data/products2.json');
+        return this.httpClient.get<Product[]>('assets/data/products.json');
     }
 
     public banners(): Observable<any[]>{

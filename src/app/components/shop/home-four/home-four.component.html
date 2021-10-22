@@ -83,7 +83,7 @@
     <div class="container">
         <div class="products sec-padding">
             <div class="products-four">
-                    <h3>POPULAR ITEMS</h3>
+                    <h3>PRODUCTOS PUPULARES</h3>
                     <app-product-carousel [product]="products | slice:0:8"></app-product-carousel>
             </div>
         </div>
@@ -92,7 +92,7 @@
         <div class="container">
             <div class="products sec-padding">
                 <div class="products-four">
-                    <h3>FEATURED ITEMS</h3>
+                    <h3>PRODUCTOS DESTACADOS</h3>
                     <app-product-carousel [product]="products | slice:8:16"></app-product-carousel>
                 </div>
             </div>
@@ -105,7 +105,7 @@
         <app-product-vertical [products]="products"></app-product-vertical>
     </div>
        
-    <div class="blog-section sec-padding">
+    <!-- <div class="blog-section sec-padding">
         <div class="container">
             <div class="section-title">
             <ngx-skeleton-loader
@@ -113,12 +113,12 @@
                 count="2"
                 [theme]="{ 'border-radius': '0', height: '20px' }"
             ></ngx-skeleton-loader>
-                <h3 *ngIf="contentLoaded">Latest From Our Blog</h3>
+                <h3 *ngIf="contentLoaded">Lo ùltimo de nuestro Blog</h3>
                 <p *ngIf="contentLoaded">Business analytics (BA) is the practice of iterative, methodical exploration of an<br> 
                     organization's data with emphasis on statistical analysis.</p>
             </div>
             
             <app-blog-section></app-blog-section>
         </div>
-    </div>
+    </div> -->
 </div>
