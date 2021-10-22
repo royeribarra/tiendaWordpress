@@ -1,0 +1,478 @@
+[   {
+        "id": 1,
+        "name": "CASE PARA IPHONE",
+        "price": 175,
+        "salePrice": 160,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 1.jpg",
+                "big": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 2.jpg",
+                "big": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 2.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 3.jpg",
+                "big": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 3.jpg"
+            },
+            {
+            "small": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 4.jpg",
+            "big": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 4.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 5.jpg",
+                "big": "assets/images/web/ACCESORIOS DE CELULAR/CASE PARA IPHONE/CASE 5.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-1",
+        "newPro": true,
+        "sale": true,
+        "category": "Headphones",
+        "tags": ["nike", "caprese", "lifestyle"]
+    },
+    {
+        "id": 2,
+        "name": "CORREAS Y CASE PARA SMARTWATCH",
+        "price": 235,
+        "salePrice": 200,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ACCESORIOS DE CELULAR/CORREAS Y CASE PARA SMARTWATCH/CASE SMARTWATCH 1.jpg",
+                "big": "assets/images/web/ACCESORIOS DE CELULAR/CORREAS Y CASE PARA SMARTWATCH/CASE SMARTWATCH 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS DE CELULAR/CORREAS Y CASE PARA SMARTWATCH/CASE 2.jpg",
+                "big": "assets/images/web/ACCESORIOS DE CELULAR/CORREAS Y CASE PARA SMARTWATCH/CASE 2.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS DE CELULAR/CORREAS Y CASE PARA SMARTWATCH/CASE 3.jpg",
+                "big": "assets/images/web/ACCESORIOS DE CELULAR/CORREAS Y CASE PARA SMARTWATCH/CASE 3.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-2",
+        "newPro": true,
+        "sale": true,
+        "category": "Headphones"
+    },
+    {
+        "id": 3,
+        "name": "Ultra Whitte Wireless",
+        "price": 350,
+        "salePrice": 200,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ARSAMES/COLLAR SPIRAL 1.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ARSAMES/COLLAR SPIRAL 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ARSAMES/COLLAR SPIRAL 2.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ARSAMES/COLLAR SPIRAL 2.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ARSAMES/COLLAR SPIRAL 3.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ARSAMES/COLLAR SPIRAL 3.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-1",
+        "newPro": true,
+        "sale": true,
+        "category": "Headphones"
+    },
+    {
+        "id": 4,
+        "name": "Wireless Mondo",
+        "price": 266,
+        "salePrice": 200,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR 2.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR 2.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR 3.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR 3.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR DRAGÓN 1.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR DRAGÓN 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR DRAGÓN.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR DRAGÓN.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/DRAGÓN/COLLAR.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-3",
+        "newPro": true,
+        "sale": true,
+        "category": "Headphones"
+    },
+    {
+        "id": 5,
+        "name": "Headset Perro",
+        "price": 88,
+        "salePrice": 70.00,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO 1.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO 2.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO 2.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO 3.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO 3.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO 4.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO 4.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SCORPIO.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 12,
+        "brand": "Brand-3",
+        "newPro": true,
+        "sale": false,
+        "category": "Headphones"
+    },
+    {
+        "id": 6,
+        "name": "Dono Purple Wireless",
+        "price": 100,
+        "salePrice": 200,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/SKULL/COLLAR CRANEO 1.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/SKULL/COLLAR CRANEO 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR CRANEO 2.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR CRANEO 2.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR CRANEO 3.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR CRANEO 3.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR CRANEO 4.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR CRANEO 4.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR CRANEO.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR CRANEO.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-5",
+        "newPro": true,
+        "sale": true,
+        "category": "Headphones"
+    },
+    {
+        "id": 7,
+        "name": "Tablet Red 8500U 2TB",
+        "price": 100,
+        "salePrice": 200,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/SWORD/COLLAR SWORD 1.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/SWORD/COLLAR SWORD 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SWORD 2.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SWORD 2.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SWORD.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/COLLARES/ESCORPIO/COLLAR SWORD.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-3",
+        "newPro": true,
+        "sale": true,
+        "category": "Laptops"
+    },
+    {
+        "id": 8,
+        "name": "Ellite Pro Book 15'6 7500U",
+        "price": 850,
+        "salePrice": 700,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA .jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA .jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA 1.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA 2.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA 2.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA 3.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA 3.jpg"
+            },
+            {
+                "small": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA 4.jpg",
+                "big": "assets/images/web/ACCESORIOS JOYAS/PULSERAS/PULSERA PALADÍN/PULSERA 4.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-4",
+        "newPro": true,
+        "sale": true,
+        "category": "Laptops"
+    },
+    {
+        "id": 9,
+        "name": "Tablet VX3000 Extra Light",
+        "price": 850,
+        "salePrice": 700,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/ANTIFOG/ANTIFOG 1.jpg",
+                "big": "assets/images/web/ANTIFOG/ANTIFOG 1.jpg"
+            },
+            {
+                "small": "assets/images/web/ANTIFOG/ANTIFOG.jpg",
+                "big": "assets/images/web/ANTIFOG/ANTIFOG.jpg"
+            } 
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-3",
+        "newPro": true,
+        "sale": true,
+        "category": "Laptops"
+    },
+    {
+        "id": 10,
+        "name": "Tablet VX4000 8500 3TB",
+        "price": 940,
+        "salePrice": 700,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 BLANCO.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 BLANCO.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 NEGRO 1.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 NEGRO 1.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 NEGRO 2.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 NEGRO 2.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 NEGRO 3.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 NEGRO 3.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 NEGRO 4.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/AUDÍFONOS F9 TWS/F9 NEGRO 4.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-4",
+        "newPro": true,
+        "sale": true,
+        "category": "Laptops"
+    },
+    {
+        "id": 11,
+        "name": "Laptop Sens 7200L",
+        "price": 760,
+        "salePrice": 600,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/TECNOLOGÍA/MOUSE INALÁMBRICO/MOUSE.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/MOUSE INALÁMBRICO/MOUSE.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-3",
+        "newPro": true,
+        "sale": true,
+        "category": "Laptops"
+    },
+    {
+        "id": 12,
+        "name": "Laptop XS3000 WiFi Smart",
+        "price": 1200,
+        "salePrice": 1099,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/TECNOLOGÍA/REPETIDOR WIFI/REPETIDOR WIFI XIAOMI.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/REPETIDOR WIFI/REPETIDOR WIFI XIAOMI.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-4",
+        "newPro": true,
+        "sale": true,
+        "category": "Laptops"
+    },
+    {
+        "id": 13,
+        "name": "Smartphone Tablet Spring2000",
+        "price": 400,
+        "salePrice": 300,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 1.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 1.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 2.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 2.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 3.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 3.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 4.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 4.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 5.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 5.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-4",
+        "newPro": true,
+        "sale": true,
+        "category": "Smartphones"
+    },
+    {
+        "id": 14,
+        "name": "Extra Thin Elitte",
+        "price": 700,
+        "salePrice": 600,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH W26/W26.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH W26/W26.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-4",
+        "newPro": true,
+        "sale": true,
+        "category": "Smartphones"
+    },
+    {
+        "id": 15,
+        "name": "Notebook Polo 4000",
+        "price": 399,
+        "salePrice": 300,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH W26 PLUS/W26 PLUS.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH W26 PLUS/W26 PLUS.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "brand-1",
+        "newPro": true,
+        "sale": true,
+        "category": "Smartphones"
+    },
+    {
+        "id": 16,
+        "name": "Smartphone Elitte Pro",
+        "price": 699,
+        "salePrice": 599,
+        "discount": 50,
+        "pictures": [
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 1.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 1.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 2.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 2.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 3.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 3.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 4.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 4.jpg"
+            },
+            {
+                "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 5.jpg",
+                "big": "assets/images/web/TECNOLOGÍA/SMARTWATCH HW22 PRO/HW22 PRO 5.jpg"
+            }
+        ],
+        "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "stock": 5,
+        "brand": "Brand-1",
+        "newPro": true,
+        "sale": true,
+        "category": "Smartphones"
+    }
+]
