@@ -65,7 +65,7 @@
     },
     {
         "id": 3,
-        "name": "Ultra Whitte Wireless",
+        "name": "COLLAR SPIRAL",
         "price": 350,
         "salePrice": 200,
         "discount": 50,
@@ -93,7 +93,7 @@
     },
     {
         "id": 4,
-        "name": "Wireless Mondo",
+        "name": "Collar DRAGÓN",
         "price": 266,
         "salePrice": 200,
         "discount": 50,
@@ -129,7 +129,7 @@
     },
     {
         "id": 5,
-        "name": "Headset Perro",
+        "name": "COLLAR SCORPIO",
         "price": 88,
         "salePrice": 70.00,
         "discount": 50,
@@ -165,7 +165,7 @@
     },
     {
         "id": 6,
-        "name": "Dono Purple Wireless",
+        "name": "COLLAR CRANEO",
         "price": 100,
         "salePrice": 200,
         "discount": 50,
@@ -201,7 +201,7 @@
     },
     {
         "id": 7,
-        "name": "Tablet Red 8500U 2TB",
+        "name": "COLLAR SWORD",
         "price": 100,
         "salePrice": 200,
         "discount": 50,
@@ -229,7 +229,7 @@
     },
     {
         "id": 8,
-        "name": "Ellite Pro Book 15'6 7500U",
+        "name": "PULSERA",
         "price": 850,
         "salePrice": 700,
         "discount": 50,
@@ -265,7 +265,7 @@
     },
     {
         "id": 9,
-        "name": "Tablet VX3000 Extra Light",
+        "name": "ANTIFOG",
         "price": 850,
         "salePrice": 700,
         "discount": 50,
@@ -289,7 +289,7 @@
     },
     {
         "id": 10,
-        "name": "Tablet VX4000 8500 3TB",
+        "name": "AUDÍFONOS F9",
         "price": 940,
         "salePrice": 700,
         "discount": 50,
@@ -325,7 +325,7 @@
     },
     {
         "id": 11,
-        "name": "Laptop Sens 7200L",
+        "name": "MOUSE INALÁMBRICO",
         "price": 760,
         "salePrice": 600,
         "discount": 50,
@@ -345,7 +345,7 @@
     },
     {
         "id": 12,
-        "name": "Laptop XS3000 WiFi Smart",
+        "name": "REPETIDOR WIFI",
         "price": 1200,
         "salePrice": 1099,
         "discount": 50,
@@ -365,7 +365,7 @@
     },
     {
         "id": 13,
-        "name": "Smartphone Tablet Spring2000",
+        "name": "SMARTWATCH HW22 PRO",
         "price": 400,
         "salePrice": 300,
         "discount": 50,
@@ -401,7 +401,7 @@
     },
     {
         "id": 14,
-        "name": "Extra Thin Elitte",
+        "name": "SMARTWATCH W26",
         "price": 700,
         "salePrice": 600,
         "discount": 50,
@@ -421,7 +421,7 @@
     },
     {
         "id": 15,
-        "name": "Notebook Polo 4000",
+        "name": "SMARTWATCH W26 PLUS",
         "price": 399,
         "salePrice": 300,
         "discount": 50,
@@ -441,7 +441,7 @@
     },
     {
         "id": 16,
-        "name": "Smartphone Elitte Pro",
+        "name": "SMARTWATCH HW22 PRO",
         "price": 699,
         "salePrice": 599,
         "discount": 50,
