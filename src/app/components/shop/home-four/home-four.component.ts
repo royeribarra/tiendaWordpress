@@ -31,11 +31,11 @@ export class HomeFourComponent implements OnInit {
 
 
     public slides = [
-        { title: 'Huge sale', subtitle: 'Up to 70%', image: 'assets/images/carousel/banner1.jpg' },
-        { title: 'Biggest discount', subtitle: 'Check the promotion', image: 'assets/images/carousel/banner2.jpg' },
-        { title: 'Biggest sale', subtitle: 'Dont miss it', image: 'assets/images/carousel/banner3.jpg' },
-        { title: 'Our best products', subtitle: 'Special selection', image: 'assets/images/carousel/banner4.jpg' },
-        { title: 'Massive sale', subtitle: 'Only for today', image: 'assets/images/carousel/banner5.jpg' }
+        { title: 'Gran Venta', subtitle: 'Hasta 70% Descuento', image: 'assets/images/banner/1.jpg' },
+        { title: 'Grandes Descuento', subtitle: 'Revisa la promociòn', image: 'assets/images/banner/2.jpg' },
+        { title: 'Gran Venta', subtitle: 'No te lo pierdas', image: 'assets/images/banner/3.jpg' },
+        { title: 'Nuestros mejores productos', subtitle: 'Seleccion especial', image: 'assets/images/banner/4.jpg' },
+        { title: 'Venta Masiva', subtitle: 'Solo por hoy', image: 'assets/images/banner/5.jpg' }
     ];
 
     constructor(private productService: ProductService,  private cartService: CartService) {
