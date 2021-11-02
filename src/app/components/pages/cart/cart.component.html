@@ -7,7 +7,7 @@
            <mat-chip color="warn" selected="true">No tienes productos en tu carrito de compra.</mat-chip>
         </mat-chip-list>
         <div>
-           <a  mat-raised-button color="primary" class="btn-project mt-20">Continuar comprando</a>
+           <a  mat-raised-button color="primary" [routerLink]="['/']" class="btn-project mt-20">Continuar comprando</a>
         </div>
      </div>
      <mat-card *ngIf="shoppingCartItems.length"  class="p-0">
@@ -51,12 +51,12 @@
               </div>
            </div>
            <div class="mat-row">
-              <div class="mat-cell"><a  mat-raised-button color="primary"  class="btn-project" [routerLink]="['/home/one']" routerLinkActive="router-link-active" >Continuar comprando</a></div>
+              <div class="mat-cell"><a  mat-raised-button color="primary"  class="btn-project" [routerLink]="['/']" routerLinkActive="router-link-active" >Continuar comprando</a></div>
               <div class="mat-cell"></div>
               <div class="mat-cell"></div>
               <div class="mat-cell text-right">
                  <div fxLayout="column" fxLayoutAlign="center end" class="grand-total px-2">
-                    <span class="new-price">Total: {{getTotal()  | async | currency:productsService?.currency:'symbol'}}</span>
+                    <span class="new-price">Total: S/. {{getTotal()  | async }}</span>
                  </div>
               </div>
               <div class="mat-cell text-center"><a mat-raised-button color="primary"  class="btn-project" [routerLink]="['/pages/checkout']" routerLinkActive="router-link-active" >Proceder a Pagar</a></div>

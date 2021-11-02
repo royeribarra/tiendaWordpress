@@ -11,7 +11,7 @@ import { Router, NavigationEnd } from '@angular/router';
 })
 export class AppComponent {
 
-  title = 'ecommerce-sophia-new';
+  title = 'TienPeru';
   public settings: Settings;
   public url : any;
 

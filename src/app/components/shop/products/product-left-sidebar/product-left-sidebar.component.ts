@@ -31,11 +31,11 @@ export class ProductLeftSidebarComponent implements OnInit {
       (params: Params) => {
         const category = params['category'];
         this.productService.getProductByCategory(category).subscribe(products => {
-       this.allItems = products;
-       this.products = products.slice(0.8);
-       this.getTags(products)
-       this.getColors(products)
-        })
+        this.allItems = products;
+        this.products = products.slice(0.8);
+        this.getTags(products)
+        this.getColors(products)
+          })
       }
     )
   }

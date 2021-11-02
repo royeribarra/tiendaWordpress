@@ -9,12 +9,8 @@ import { HomeFourComponent } from './components/shop/home-four/home-four.compone
 const appRoutes: Routes = [
   {
     path: '',
-    redirectTo: 'home/four',
+    redirectTo: '/home',
     pathMatch: 'full'
-  },
-  {
-    path: 'home',
-    component: DemoComponent
   },
   {
     path: '',
@@ -44,7 +40,7 @@ const appRoutes: Routes = [
 @NgModule({
   declarations: [],
   imports: [
-    RouterModule.forRoot(appRoutes, { useHash: true, relativeLinkResolution: 'legacy' })
+    RouterModule.forRoot(appRoutes, { useHash: false, relativeLinkResolution: 'legacy' })
   ],
   exports: [RouterModule]
 })

@@ -20,11 +20,7 @@ import { Resolver } from '../shared/services/resolver.service';
 
 // Routes
 const routes: Routes = [
-  { path: 'one', component: HomeComponent },
-  { path: 'two', component: HomeTwoComponent },
-  { path: 'three', component: HomeThreeComponent },
-  { path: 'four', component: HomeFourComponent },
-  { path: 'five', component: HomeFiveComponent },
+  { path: '', component: HomeFourComponent },
   { path: 'industrial', component: IndustrialComponent },
   { path: 'food', component: FoodComponent },
   { path: 'furniture', component: FurnitureComponent },

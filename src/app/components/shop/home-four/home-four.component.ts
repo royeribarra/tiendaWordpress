@@ -11,7 +11,7 @@ import { CartService } from '../../shared/services/cart.service';
 })
 export class HomeFourComponent implements OnInit {
     public banners = [];
-    public currencies = ['USD', 'EUR'];
+    public currencies = ['SOLES', 'EUR'];
     public currency:any;
     public flags = [
         { name:'English', image: 'assets/images/flags/gb.svg' },
