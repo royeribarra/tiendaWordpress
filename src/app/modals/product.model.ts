@@ -17,6 +17,9 @@ export class Product {
   state?: string;
   shortDetails?: string;
   description?: string;
+  features?: string;
+  specifications?: string;
+  functions?: string;
   stock?: number;
   newPro?: boolean;
   brand?: string;
@@ -35,6 +38,9 @@ export class Product {
     type?: string,
     shortDetails?: string,
     description?: string,
+    features?: string,
+    specifications?: string,
+    functions?: string,
     stock?: number,
     state?: string,
     newPro?: boolean,
@@ -53,6 +59,9 @@ export class Product {
     this.pictures = pictures;
     this.shortDetails = shortDetails;
     this.description = description;
+    this.features = features,
+    this.specifications = specifications,
+    this.functions = functions,
     this.stock = stock;
     this.newPro = newPro;
     this.brand = brand;
