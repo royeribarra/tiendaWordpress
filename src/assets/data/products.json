@@ -1,8 +1,8 @@
 [   {
         "id": 1,
         "name": "CASE PARA IPHONE",
-        "price": 175,
-        "salePrice": 160,
+        "price": 35,
+        "salePrice": 35,
         "discount": 50,
         "pictures": [
             {
@@ -47,8 +47,8 @@
     {
         "id": 2,
         "name": "CORREAS Y CASE PARA SMARTWATCH",
-        "price": 235,
-        "salePrice": 200,
+        "price": 20,
+        "salePrice": 20,
         "discount": 50,
         "pictures": [
             {
@@ -83,9 +83,9 @@
     },
     {
         "id": 3,
-        "name": "COLLAR SPIRAL",
-        "price": 350,
-        "salePrice": 200,
+        "name": "COLLAR ARSAMES",
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -121,8 +121,8 @@
     {
         "id": 4,
         "name": "Collar DRAGÓN",
-        "price": 266,
-        "salePrice": 200,
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -166,8 +166,8 @@
     {
         "id": 5,
         "name": "COLLAR SCORPIO",
-        "price": 88,
-        "salePrice": 70.00,
+        "price": 40,
+        "salePrice": 40.00,
         "discount": 50,
         "pictures": [
             {
@@ -210,9 +210,9 @@
     },
     {
         "id": 6,
-        "name": "COLLAR CRANEO",
-        "price": 100,
-        "salePrice": 200,
+        "name": "COLLAR SKULL",
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -256,8 +256,8 @@
     {
         "id": 7,
         "name": "COLLAR SWORD",
-        "price": 100,
-        "salePrice": 200,
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -293,8 +293,8 @@
     {
         "id": 8,
         "name": "PULSERA",
-        "price": 850,
-        "salePrice": 700,
+        "price": 50,
+        "salePrice": 50,
         "discount": 50,
         "pictures": [
             {
@@ -338,8 +338,8 @@
     {
         "id": 9,
         "name": "ANTIFOG",
-        "price": 850,
-        "salePrice": 700,
+        "price": 10,
+        "salePrice": 10,
         "discount": 50,
         "pictures": [
             {
@@ -371,8 +371,8 @@
     {
         "id": 10,
         "name": "AUDÍFONOS F9",
-        "price": 940,
-        "salePrice": 700,
+        "price": 65,
+        "salePrice": 65,
         "discount": 50,
         "pictures": [
             {
@@ -433,8 +433,8 @@
     {
         "id": 11,
         "name": "MOUSE INALÁMBRICO",
-        "price": 760,
-        "salePrice": 600,
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -470,8 +470,8 @@
     {
         "id": 12,
         "name": "REPETIDOR WIFI",
-        "price": 1200,
-        "salePrice": 1099,
+        "price": 75,
+        "salePrice": 75,
         "discount": 50,
         "pictures": [
             {
@@ -587,8 +587,8 @@
     {
         "id": 15,
         "name": "SMARTWATCH W26 PLUS",
-        "price": 399,
-        "salePrice": 300,
+        "price": 120,
+        "salePrice": 120,
         "discount": 50,
         "pictures": [
             {
@@ -616,8 +616,8 @@
     {
         "id": 16,
         "name": "SMARTWATCH HW22 PRO",
-        "price": 699,
-        "salePrice": 599,
+        "price": 150,
+        "salePrice": 150,
         "discount": 50,
         "pictures": [
             {
