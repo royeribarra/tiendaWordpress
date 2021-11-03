@@ -1,8 +1,8 @@
 [   {
         "id": 1,
         "name": "CASE PARA IPHONE",
-        "price": 175,
-        "salePrice": 160,
+        "price": 35,
+        "salePrice": 35,
         "discount": 50,
         "pictures": [
             {
@@ -28,6 +28,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-1",
         "newPro": true,
@@ -38,8 +47,8 @@
     {
         "id": 2,
         "name": "CORREAS Y CASE PARA SMARTWATCH",
-        "price": 235,
-        "salePrice": 200,
+        "price": 20,
+        "salePrice": 20,
         "discount": 50,
         "pictures": [
             {
@@ -57,6 +66,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-2",
         "newPro": true,
@@ -65,9 +83,9 @@
     },
     {
         "id": 3,
-        "name": "COLLAR SPIRAL",
-        "price": 350,
-        "salePrice": 200,
+        "name": "COLLAR ARSAMES",
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -85,6 +103,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-1",
         "newPro": true,
@@ -94,8 +121,8 @@
     {
         "id": 4,
         "name": "Collar DRAGÓN",
-        "price": 266,
-        "salePrice": 200,
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -121,6 +148,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-3",
         "newPro": true,
@@ -130,8 +166,8 @@
     {
         "id": 5,
         "name": "COLLAR SCORPIO",
-        "price": 88,
-        "salePrice": 70.00,
+        "price": 40,
+        "salePrice": 40.00,
         "discount": 50,
         "pictures": [
             {
@@ -157,6 +193,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 12,
         "brand": "Brand-3",
         "newPro": true,
@@ -165,9 +210,9 @@
     },
     {
         "id": 6,
-        "name": "COLLAR CRANEO",
-        "price": 100,
-        "salePrice": 200,
+        "name": "COLLAR SKULL",
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -193,6 +238,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-5",
         "newPro": true,
@@ -202,8 +256,8 @@
     {
         "id": 7,
         "name": "COLLAR SWORD",
-        "price": 100,
-        "salePrice": 200,
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -221,6 +275,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-3",
         "newPro": true,
@@ -230,8 +293,8 @@
     {
         "id": 8,
         "name": "PULSERA",
-        "price": 850,
-        "salePrice": 700,
+        "price": 50,
+        "salePrice": 50,
         "discount": 50,
         "pictures": [
             {
@@ -257,6 +320,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-4",
         "newPro": true,
@@ -266,8 +338,8 @@
     {
         "id": 9,
         "name": "ANTIFOG",
-        "price": 850,
-        "salePrice": 700,
+        "price": 10,
+        "salePrice": 10,
         "discount": 50,
         "pictures": [
             {
@@ -281,6 +353,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-3",
         "newPro": true,
@@ -290,8 +371,8 @@
     {
         "id": 10,
         "name": "AUDÍFONOS F9",
-        "price": 940,
-        "salePrice": 700,
+        "price": 65,
+        "salePrice": 65,
         "discount": 50,
         "pictures": [
             {
@@ -316,7 +397,33 @@
             }
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "description": "Audífonos inalámbricos TWS F9-5 (True Wireless Stereo = Verdadero Estéreo Inalámbrico).",
+        "features": [
+            "Un par de audífonos bluetooth.",
+            "Una caja de carga (banco de energía).",
+            "Manual de uso.",
+            "Cable de carga USB",
+            "Tres pares de gomas (tapones) - (S,M,L)"
+        ],
+        "specifications": [
+            "Conexión inalámbrica Bluetooth: Versión 5.0",
+            "Reducción inteligente de ruido CVC80: llamadas HD, sin verse afectado por entornos ruidosos.",
+            "Micrófono HD, muy útil para responder las llamadas utilizando el botón multifunción.",
+            "Disfrute del sonido envolvente estéreo 9D.",
+            "Compatibilidad: independientemente de la marca y el modelo de teléfono móvil, los dispositivos habilitados pueden utilizar este auricular mediante conexión bluetooth.",
+            "Pueden funcionar independientes, cada audífono podrá conectarse a un teléfono móvil diferente.",
+            "Botón multifunción (toque / Smart touch): On/off, contestar llamada, control volumen, adelante, atrás, play/pause.",
+            "Pantalla digital LCD inteligente, puedes comprobar el consumo de la batería en cualquier momento. Se apaga cuando está completamente cargado.",
+            "La caja de batería también sirve para cargar celular (entre 20% y 25% como máximo, por ser la batería de los teléfonos más alta en mah).",
+            "Estándar impermeable: IPX7",
+            "Tiempo de carga de auriculares: menos de 1 hora y media. ",
+            "Duración de 4-6 horas de reproducción continua, comprobada. * Con la función on/off, puedes racionalizar mejor la energía de los audífonos.",
+            "Distancia de comunicación: 10 metros sin barreras de obstáculos, siendo 5-8 metros más óptimo (comprobado).",
+            "El adaptador para corriente, se recomienda de 5V - 1 A (1OOOmAh)"
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-4",
         "newPro": true,
@@ -326,8 +433,8 @@
     {
         "id": 11,
         "name": "MOUSE INALÁMBRICO",
-        "price": 760,
-        "salePrice": 600,
+        "price": 40,
+        "salePrice": 40,
         "discount": 50,
         "pictures": [
             {
@@ -337,6 +444,23 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            "Olvídate de los Cables ",
+            "Frecuencia 2.4GHz",
+            "3 niveles de DPI 800/1200/1600",
+            "Inalámbrico",
+            "Compatible / Windows y MacOS",
+            "Ultra delgado y silencioso",
+            "Diseño ergonómico",
+            "Recargable",
+            "Larga duración de batería"
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-3",
         "newPro": true,
@@ -346,8 +470,8 @@
     {
         "id": 12,
         "name": "REPETIDOR WIFI",
-        "price": 1200,
-        "salePrice": 1099,
+        "price": 75,
+        "salePrice": 75,
         "discount": 50,
         "pictures": [
             {
@@ -357,6 +481,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-4",
         "newPro": true,
@@ -393,6 +526,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "Brand-4",
         "newPro": true,
@@ -402,9 +544,9 @@
     {
         "id": 14,
         "name": "SMARTWATCH W26",
-        "price": 700,
-        "salePrice": 600,
-        "discount": 50,
+        "price": 100,
+        "salePrice": 100,
+        "discount": "",
         "pictures": [
             {
                 "small": "assets/images/web/TECNOLOGÍA/SMARTWATCH W26/W26.jpg",
@@ -413,6 +555,29 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            "Rueda interactiva, puedes mover aplicaciones, volumen y fondo de pantalla con la rueda (al estilo Apple Watch).",
+            "Contesta y hace llamadas desde el mismo reloj gracias a su altavoz y Bluetooth doble de 3.0 y 4.0.",
+            "Registro de llamadas telefónicas y acceso a contactos.",
+            "Reproduce música desde su propio altavoz y controla la música de tu teléfono.",
+            "Recibe mensajes de WhatsApp, SMS, Messenger, Twitter y otras redes sociales.",
+            "Soporte ECG + PPG para medir la temperatura corporal y la presión arterial.",
+            "Posee reloj despertador, calendario, calculadora y cronómetro.",
+            "Te permite rastrear, organizar y recordar tus sesiones de ejercicios, a través de su aplicación.",
+            "Control de cámara a distancia.",
+            "Recordatorio antipérdida para la función de teléfono móvil."
+        ],
+        "specifications": [
+            "100% a prueba de agua debido a su composición IP68, se puede usar en días lluviosos, o para entrenamientos de natación.",
+            "La batería tiene una autonomía de hasta 48 horas con un uso continuo, se carga de forma magnética.",
+            "Correas de silicona resistentes a todo tipo de clima y suaves al contacto con la piel.",
+            "Memoria de 128 MB de ROM y hasta 128 MB de memoria RAM.",
+            "Compatible con Android y iOS",
+            "Más de 11 idiomas.",
+            "Pantalla SQUARE con tecnología IPS de 1,75 pulgadas.",
+            "Resolución nítida de 320×385 píxeles.",
+            "Tiene una medida general de 44 x 38 x 10.7 cm."
+        ],
         "stock": 5,
         "brand": "Brand-4",
         "newPro": true,
@@ -422,8 +587,8 @@
     {
         "id": 15,
         "name": "SMARTWATCH W26 PLUS",
-        "price": 399,
-        "salePrice": 300,
+        "price": 120,
+        "salePrice": 120,
         "discount": 50,
         "pictures": [
             {
@@ -433,6 +598,15 @@
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            ""
+        ],
+        "functions": [
+            ""
+        ],
         "stock": 5,
         "brand": "brand-1",
         "newPro": true,
@@ -442,8 +616,8 @@
     {
         "id": 16,
         "name": "SMARTWATCH HW22 PRO",
-        "price": 699,
-        "salePrice": 599,
+        "price": 150,
+        "salePrice": 150,
         "discount": 50,
         "pictures": [
             {
@@ -468,7 +642,42 @@
             }
         ],
         "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "features": [
+            ""
+        ],
+        "specifications": [
+            "Rueda interactiva, puedes mover aplicaciones, volumen y fondo de pantalla con la rueda (al estilo Apple Watch).",
+            "Correas: Intercambiables en material silicona y metal / 44mm",
+            "Conectividad: Bluetooth",
+            "Sistema operativo compatible: Android 5.0 o superior, iOS 9 o superior",
+            "Resistencia al agua: IPX67",
+            "Batería con Capacidad de : 220 mah",
+            "Tipo de carga: Wireless (inalámbrico)."
+        ],
+        "functions": [
+            "Información y alerta sobre llamadas: Puedes contestar las llamadas desde el smartwatch y realizarlas.",
+            "Bloqueo con opción de contraseña",
+            "Soporte ECG + PPG para medir la temperatura corporal y la presión arterial.",
+            "Tiene altavoz de alta definición y micrófono incorporado.",
+            "Sensor de ritmo cardíaco 24/7",
+            "Oxímetro",
+            "Monitorización del sueño.",
+            "Modo multideportivo",
+            "Alarma/despertador",
+            "Fotos remotas",
+            "Cronometro y Calendario",
+            "Contador de quema de calorías",
+            "Contador Inteligente de pasos y distancia.",
+            "Recordatorio para tomar agua.",
+            "Recopilación de datos en la aplicación (te muestra un análisis del sueño, actividad o fatiga).",
+            "Música Bluetooth: Controla la música y escúchala en tu Smartwatch",
+            "Fondos de pantalla personalizables.",
+            "Alerta para que puedas encontrar tu celular.",
+            "Puedes sincronizar contactos de tu celular.",
+            "Pantalla compartida: No necesitas abrir el menú para tener acceso a tus aplicaciones más usadas.",
+            "Recibe información instantánea de Apps, tales como Facebook, Twitter, WhatsApp, etc. y te permite en tiempo real recibir notificaciones."
+        ],
+        "description": "Llega el hermano mayor, conoce el nuevo modelo HW22 Pro Serie 6 2021, con una pantalla HD de 44mm de 1.75 pulgadas. Compatible con teléfonos iPhone y Android. Gracias a su tecnología Bluetooth 5.2 podrás tener una mejor conexión con tu Smartphone, mayor estabilidad y un mejor rendimiento de batería.",
         "stock": 5,
         "brand": "Brand-1",
         "newPro": true,
